@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\bin\Debug\net6.0\Задача 34.exe
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\bin\Debug\net6.0\Задача 34.deps.json
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\bin\Debug\net6.0\Задача 34.runtimeconfig.json
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\bin\Debug\net6.0\Задача 34.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\bin\Debug\net6.0\Задача 34.pdb
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.AssemblyInfo.cs
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\refint\Задача 34.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.pdb
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\Задача 34.genruntimeconfig.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 34\obj\Debug\net6.0\ref\Задача 34.dll

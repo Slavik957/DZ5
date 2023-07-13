@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\bin\Debug\net6.0\Задача 38.exe
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\bin\Debug\net6.0\Задача 38.deps.json
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\bin\Debug\net6.0\Задача 38.runtimeconfig.json
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\bin\Debug\net6.0\Задача 38.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\bin\Debug\net6.0\Задача 38.pdb
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.AssemblyInfo.cs
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\refint\Задача 38.dll
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.pdb
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\Задача 38.genruntimeconfig.cache
+D:\GeekBrains\Seminar 5\Домашнее задание\Задача 38\obj\Debug\net6.0\ref\Задача 38.dll
